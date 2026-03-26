@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Config-Default
 # This configuration because Eureka client automatic register
 eureka:
   instance:
